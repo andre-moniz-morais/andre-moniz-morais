@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Morais</h1>
 <h3 align="center">A passionate full-stack developer from Portugal.</h3>
 
-- 🔭 I’m currently working on **automating my all life 😎**
+- 🔭 I’m currently working on **automating all my life 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
